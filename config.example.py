@@ -4,7 +4,7 @@ from pathlib import Path
 # ===== REDDIT =====
 REDDIT_CLIENT_ID = "your_reddit_client_id"
 REDDIT_CLIENT_SECRET = "your_reddit_client_secret"
-REDDIT_USER_AGENT = "RedditArchiver/1.0 (by your_username)"
+REDDIT_USER_AGENT = "RedditArchiver/1.0 (by user-is-absinthe)"
 
 # ===== TELEGRAM =====
 TELEGRAM_BOT_TOKEN = "your_telegram_bot_token"
