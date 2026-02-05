@@ -1,0 +1,7 @@
+praw==7.7.1
+aiohttp==3.9.1
+aiogram==3.3.0
+aiosqlite==0.19.0
+python-dotenv==1.0.0
+requests==2.31.0
+Pillow==10.1.0

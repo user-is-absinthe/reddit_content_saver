@@ -1,0 +1,21 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+.venv
+
+archive.db
+temp_files/*
+logs/*
+
+config.py  # Не коммитим конфиг с секретами!
+.env
+
+.DS_Store
+*.swp
+*.swo
+*~
